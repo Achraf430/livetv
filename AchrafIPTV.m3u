@@ -801,6 +801,31 @@ http://teledunet.com:8080/tdn/tdn/44458.ts
 
 #EXTINF:-1,SSC XTRA 3
 http://teledunet.com:8080/tdn/tdn/44461.ts
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Ennahar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ennahar_TV_Logo.png" group-title="أخبار الجزائر",Ennahar TV
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Echorouk News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Echorouk_News_TV_Logo.png" group-title="أخبار الجزائر",Echorouk News
+https://live.echoroukonline.com/live/echorouknews.m3u8
+
+#EXTINF:-1 tvg-name="AL24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/AL24_News_Logo.png" group-title="أخبار الجزائر",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/al24news/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Echorouk TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Echorouk_TV_Logo.png" group-title="قنوات جزائرية",Echorouk TV
+https://live.echoroukonline.com/live/echorouk.m3u8
+
+#EXTINF:-1 tvg-name="El Bilad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/El_Bilad_TV_Logo.png" group-title="قنوات جزائرية",El Bilad TV
+https://live.elbilad.net/stream/bilad.m3u8
+
+#EXTINF:-1 tvg-name="Samira TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Samira_TV_Logo.png" group-title="قنوات جزائرية",Samira TV
+https://samiratv.cdn.mangomolo.com/samiratv/smil:samiratv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV1 Algeria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/ENTV_TV1_Logo.png" group-title="قنوات جزائرية",TV1 Algeria
+https://cdn-live.ert.dz/entv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV4 Tamazight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/TV4_Tamazight_Logo.png" group-title="قنوات جزائرية",TV4 Tamazight
+https://cdn-live.ert.dz/tamazight/playlist.m3u8
 
 
 
