@@ -17,7 +17,6 @@ https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/64
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.factjo.com/App_Themes/webSite/imgThemes/mainlogo2023a.png" ,الحقيقة الدّولية 
 https://ghaasiflu.online/alhqeqa/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",الإمارات العربية المتحدة
 0.0.0.0
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
@@ -1159,5 +1158,22 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" group-title="China",CCTV-1 综合
 https://node1.olelive.c
+#EXTM3U
+#EXTINF:-1 tvg-id="AL24News.dz@SD",AL24 News (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-id="AmouYazidTV.dz@SD",Amou Yazid TV (576p)
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.dz@SD",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElFadjerTV.dz@SD",El Fadjer TV (720p)
+https://stream.wsla.top/play/1.m3u8
+#EXTINF:-1 tvg-id="TV2.dz@SD",TV2
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:-1 tvg-id="TV2.dz@SD",TV2
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
+#EXTINF:-1 tvg-id="TV2.dz@SD",TV2 Canal Algérie (1080p)
+http://149.62.177.98:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="TV4.dz@SD",TV4 Tamazight TV (576p)
+http://149.62.177.98:8000/play/a01t/index.m3u8
 
 
